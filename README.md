@@ -10,3 +10,4 @@ This folder contains all the deliverables for the "Dynamic Robot Movement Simula
 - `Assignment3_CSE366.ipynb`: Code and simulation of assignment3
 - `https://data.mendeley.com/datasets/brfgw46wzb/1`: Link of the datset for Assignment3_CSE366.ipynb
 - `potato-disease-detection.ipynb`: Code and simulation of potato-disease-detection
+- `Project_Report.pdf`: A detailed report of potato-disease-detection
