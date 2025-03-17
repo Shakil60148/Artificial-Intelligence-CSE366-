@@ -1,9 +1,7 @@
-# Assignment1: Dynamic Robot Movement Simulation
-
-This folder contains all the deliverables for the "Dynamic Robot Movement Simulation" project.
+# Artificial-Intelligence-CSE366
 
 ## Files
-- `Assignment1_CSE366.ipynb`: Code and simulation of assignment1
+- `Assignment1_CSE366.ipynb`: Code and simulation of assignment1 (Dynamic Robot Movement Simulation)
 - `Project_Report.pdf`: A detailed report of assignment1
 - `Assignment2_CSE366.ipynb`: Code and simulation of assignment2
 - `Project_Report(A2).pdf`: A detailed report of assignment2
